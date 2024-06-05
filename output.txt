@@ -1,0 +1,156 @@
+**The conditional probabilities P(Xi = xi|Y = y)**
+
+P(Xi: irradiat  xi: no  y: recurrence-events): 0.04984423676012461
+P(Xi: irradiat  xi: no  y: no-recurrence-events): 0.04984423676012461
+P(Xi: irradiat  xi: yes  y: recurrence-events): 0.0364963503649635
+P(Xi: irradiat  xi: yes  y: no-recurrence-events): 0.0364963503649635
+P(Xi: menopause  xi: lt40  y: recurrence-events): 0.0029850746268656717
+P(Xi: menopause  xi: lt40  y: no-recurrence-events): 0.0029850746268656717
+P(Xi: menopause  xi: premeno  y: recurrence-events): 0.1192214111922141
+P(Xi: menopause  xi: premeno  y: no-recurrence-events): 0.1192214111922141
+P(Xi: menopause  xi: ge40  y: recurrence-events): 0.08446866485013624
+P(Xi: menopause  xi: ge40  y: no-recurrence-events): 0.08446866485013624
+P(Xi: deg-malig  xi: 1  y: recurrence-events): 0.022277227722772276
+P(Xi: deg-malig  xi: 1  y: no-recurrence-events): 0.022277227722772276
+P(Xi: deg-malig  xi: 2  y: recurrence-events): 0.0614406779661017
+P(Xi: deg-malig  xi: 2  y: no-recurrence-events): 0.0614406779661017
+P(Xi: deg-malig  xi: 3  y: recurrence-events): 0.10462287104622871
+P(Xi: deg-malig  xi: 3  y: no-recurrence-events): 0.10462287104622871
+P(Xi: tumor-size  xi: 50-54  y: recurrence-events): 0.00904977375565611
+P(Xi: tumor-size  xi: 50-54  y: no-recurrence-events): 0.00904977375565611
+P(Xi: tumor-size  xi: 5-9  y: recurrence-events): 0.0033003300330033004
+P(Xi: tumor-size  xi: 5-9  y: no-recurrence-events): 0.0033003300330033004
+P(Xi: tumor-size  xi: 40-44  y: recurrence-events): 0.01907356948228883
+P(Xi: tumor-size  xi: 40-44  y: no-recurrence-events): 0.01907356948228883
+P(Xi: tumor-size  xi: 30-34  y: recurrence-events): 0.048728813559322036
+P(Xi: tumor-size  xi: 30-34  y: no-recurrence-events): 0.048728813559322036
+P(Xi: tumor-size  xi: 45-49  y: recurrence-events): 0.0060790273556231
+P(Xi: tumor-size  xi: 45-49  y: no-recurrence-events): 0.0060790273556231
+P(Xi: tumor-size  xi: 20-24  y: recurrence-events): 0.0340632603406326
+P(Xi: tumor-size  xi: 20-24  y: no-recurrence-events): 0.0340632603406326
+P(Xi: tumor-size  xi: 35-39  y: recurrence-events): 0.024922118380062305
+P(Xi: tumor-size  xi: 35-39  y: no-recurrence-events): 0.024922118380062305
+P(Xi: tumor-size  xi: 0-4  y: recurrence-events): 0.004728132387706856
+P(Xi: tumor-size  xi: 0-4  y: no-recurrence-events): 0.004728132387706856
+P(Xi: tumor-size  xi: 25-29  y: recurrence-events): 0.05191256830601093
+P(Xi: tumor-size  xi: 25-29  y: no-recurrence-events): 0.05191256830601093
+P(Xi: tumor-size  xi: 10-14  y: recurrence-events): 0.005714285714285714
+P(Xi: tumor-size  xi: 10-14  y: no-recurrence-events): 0.005714285714285714
+P(Xi: tumor-size  xi: 15-19  y: recurrence-events): 0.018666666666666668
+P(Xi: tumor-size  xi: 15-19  y: no-recurrence-events): 0.018666666666666668
+P(Xi: node-caps  xi: no  y: recurrence-events): 0.19708029197080293
+P(Xi: node-caps  xi: no  y: no-recurrence-events): 0.19708029197080293
+P(Xi: node-caps  xi: yes  y: recurrence-events): 0.1307901907356948
+P(Xi: node-caps  xi: yes  y: no-recurrence-events): 0.1307901907356948
+P(Xi: breast-quad  xi: central  y: recurrence-events): 0.014619883040935672
+P(Xi: breast-quad  xi: central  y: no-recurrence-events): 0.014619883040935672
+P(Xi: breast-quad  xi: right_up  y: recurrence-events): 0.04361370716510903
+P(Xi: breast-quad  xi: right_up  y: no-recurrence-events): 0.04361370716510903
+P(Xi: breast-quad  xi: left_up  y: recurrence-events): 0.06082725060827251
+P(Xi: breast-quad  xi: left_up  y: no-recurrence-events): 0.06082725060827251
+P(Xi: breast-quad  xi: left_low  y: recurrence-events): 0.08719346049046321
+P(Xi: breast-quad  xi: left_low  y: no-recurrence-events): 0.08719346049046321
+P(Xi: breast-quad  xi: right_low  y: recurrence-events): 0.01912568306010929
+P(Xi: breast-quad  xi: right_low  y: no-recurrence-events): 0.01912568306010929
+P(Xi: inv-nodes  xi: 6-8  y: recurrence-events): 0.02997275204359673
+P(Xi: inv-nodes  xi: 6-8  y: no-recurrence-events): 0.02997275204359673
+P(Xi: inv-nodes  xi: 15-17  y: recurrence-events): 0.012461059190031152
+P(Xi: inv-nodes  xi: 15-17  y: no-recurrence-events): 0.012461059190031152
+P(Xi: inv-nodes  xi: 0-2  y: recurrence-events): 0.10462287104622871
+P(Xi: inv-nodes  xi: 0-2  y: no-recurrence-events): 0.10462287104622871
+P(Xi: inv-nodes  xi: 12-14  y: recurrence-events): 0.008547008547008548
+P(Xi: inv-nodes  xi: 12-14  y: no-recurrence-events): 0.008547008547008548
+P(Xi: inv-nodes  xi: 24-26  y: recurrence-events): 0.005555555555555556
+P(Xi: inv-nodes  xi: 24-26  y: no-recurrence-events): 0.005555555555555556
+P(Xi: inv-nodes  xi: 3-5  y: recurrence-events): 0.04678362573099415
+P(Xi: inv-nodes  xi: 3-5  y: no-recurrence-events): 0.04678362573099415
+P(Xi: inv-nodes  xi: 9-11  y: recurrence-events): 0.017142857142857144
+P(Xi: inv-nodes  xi: 9-11  y: no-recurrence-events): 0.017142857142857144
+P(Xi: breast  xi: left  y: recurrence-events): 0.1070559610705596
+P(Xi: breast  xi: left  y: no-recurrence-events): 0.1070559610705596
+P(Xi: breast  xi: right  y: recurrence-events): 0.11214953271028037
+P(Xi: breast  xi: right  y: no-recurrence-events): 0.11214953271028037
+P(Xi: age  xi: 20-29  y: recurrence-events): 0.0029069767441860465
+P(Xi: age  xi: 20-29  y: no-recurrence-events): 0.0029069767441860465
+P(Xi: age  xi: 30-39  y: recurrence-events): 0.038929440389294405
+P(Xi: age  xi: 30-39  y: no-recurrence-events): 0.038929440389294405
+P(Xi: age  xi: 40-49  y: recurrence-events): 0.07714285714285714
+P(Xi: age  xi: 40-49  y: no-recurrence-events): 0.07714285714285714
+P(Xi: age  xi: 50-59  y: recurrence-events): 0.05994550408719346
+P(Xi: age  xi: 50-59  y: no-recurrence-events): 0.05994550408719346
+P(Xi: age  xi: 60-69  y: recurrence-events): 0.04857142857142857
+P(Xi: age  xi: 60-69  y: no-recurrence-events): 0.04857142857142857
+P(Xi: age  xi: 70-79  y: recurrence-events): 0.003134796238244514
+P(Xi: age  xi: 70-79  y: no-recurrence-events): 0.003134796238244514
+
+
+**Class probabilities P(Y = y) for each class label Y = y**
+
+P(Y = recurrence-events): 0.2936802973977695
+P(Y = no-recurrence-events): 0.7063197026022305
+
+
+**Given the test input vector X = [X1 = x1, . . . , X9 = x9], give the calculated scores**
+
+X = [189, no-recurrence-events, 50-59, premeno, 50-54, 0-2, yes, 2, right, left_up, yes]
+score(Y = recurrence-events, X): 1.4247938844433191E-11
+score(Y = no-recurrence-events, X): 8.497895855322755E-11
+Predicted Class: no-recurrence-events
+
+
+X = [190, no-recurrence-events, 50-59, ge40, 35-39, 0-2, no, 2, left, left_up, no]
+score(Y = recurrence-events, X): 6.025458233446494E-11
+score(Y = no-recurrence-events, X): 1.1247870546141183E-8
+Predicted Class: no-recurrence-events
+
+
+X = [191, no-recurrence-events, 50-59, premeno, 10-14, 3-5, no, 1, right, left_up, no]
+score(Y = recurrence-events, X): 3.3119571359363737E-12
+score(Y = no-recurrence-events, X): 4.1408737029256484E-9
+Predicted Class: no-recurrence-events
+
+
+X = [192, no-recurrence-events, 40-49, premeno, 10-14, 0-2, no, 2, left, left_low, yes]
+score(Y = recurrence-events, X): 6.661265999837005E-12
+score(Y = no-recurrence-events, X): 1.5798670450400244E-9
+Predicted Class: no-recurrence-events
+
+
+X = [193, no-recurrence-events, 50-59, ge40, 15-19, 0-2, yes, 2, left, central, yes]
+score(Y = recurrence-events, X): 4.7772895203081494E-12
+score(Y = no-recurrence-events, X): 2.725804183912724E-10
+Predicted Class: no-recurrence-events
+
+
+X = [194, no-recurrence-events, 50-59, premeno, 25-29, 0-2, no, 1, left, left_low, no]
+score(Y = recurrence-events, X): 9.207190782701928E-11
+score(Y = no-recurrence-events, X): 2.6864148938053184E-8
+Predicted Class: no-recurrence-events
+
+
+X = [195, no-recurrence-events, 60-69, ge40, 25-29, 0-2, no, 3, right, left_low, no]
+score(Y = recurrence-events, X): 2.600428261415668E-10
+score(Y = no-recurrence-events, X): 4.3912025198124905E-8
+Predicted Class: no-recurrence-events
+
+
+X = [274, recurrence-events, 60-69, ge40, 20-24, 0-2, no, 1, right, left_up, no]
+score(Y = recurrence-events, X): 2.5345879096803546E-11
+score(Y = no-recurrence-events, X): 1.4862712583853585E-8
+Predicted Class: no-recurrence-events
+
+
+X = [275, recurrence-events, 40-49, ge40, 30-34, 3-5, no, 3, left, left_low, no]
+score(Y = recurrence-events, X): 1.6548310880096154E-10
+score(Y = no-recurrence-events, X): 2.1376546919601004E-9
+Predicted Class: no-recurrence-events
+
+
+X = [276, recurrence-events, 50-59, ge40, 30-34, 3-5, no, 3, left, left_low, no]
+score(Y = recurrence-events, X): 1.2859218263875305E-10
+score(Y = no-recurrence-events, X): 2.191726389440405E-9
+Predicted Class: no-recurrence-events
+
+
+correct: 7
+Accuracy: 70.0%
